@@ -16,7 +16,7 @@ Package: com.ihelper.summerhype
 Version: 0.1-1
 Section: Themes
 Maintainer: iHelper <matheo.d91@gmail.com>
-Depends: firmware (>7.0), com.spark.snowboard
+Depends: com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.ihelper.summerhype_0.1_iphoneos-arm.deb
 Size: 5,76 
