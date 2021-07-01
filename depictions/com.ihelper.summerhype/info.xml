@@ -1,0 +1,42 @@
+<package>
+	<id>com.ihelper.summerhype</id>
+	<name>SummerHype</name>
+	<version>0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxOS>14.7</maxOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate |com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>Nice and chill theme to enjoy the summer (:</shortDescription>
+	<descriptionlist>
+		<description>This theme is a bunch of cool cartoon style icon, inspired by the summer coming, I hope you will enjoy it ! </description>
+		
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Adding main theme</change>
+		<change>Adding settings theme</change>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Clicl me to follow me and my social medias</name>
+			<url>https://www.allmylinks.com/ihelper</url>
+			
+		</link>
+	</links>
+</package>
