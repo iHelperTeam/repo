@@ -13,15 +13,15 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://iHelperTeam.github.io/repo/depictions/?p=com.supermamon.newpackage
 
 Package: com.ihelper.summerhype
-Version: 0.1-1
+Version: 0.2-1
 Section: Themes
 Maintainer: iHelper <matheo.d91@gmail.com>
 Depends: com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.ihelper.summerhype_0.1_iphoneos-arm.deb
+Filename: ./debs/com.ihelper.summerhype_0.2_iphoneos-arm.deb
 Size: 5,76 
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: Nice and chill theme to enjoy the so*ummer (:
+Description: Nice and chill theme to enjoy the summer (:
 Name: SummerHype
 Author: iHelper <matheo.d91@gmail.com>
 Depiction: https://iHelperTeam.github.io/repo/depictions/?p=com.ihelper.summerhype
